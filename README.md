@@ -1,6 +1,6 @@
 # Beta-SimpleKasirProgram
 Simple Program Kasir dengan Java
 
-![image](https://github.com/AdRavi89/Beta-SimpleKasirProgram/assets/122881309/4c432542-f2e7-454a-8040-6953c15a2c28)
+![Cuplikan layar 2024-01-17 191154](https://github.com/AdRavi89/Beta-SimpleKasirProgram/assets/122881309/b34cc9f3-e0d7-4fb1-9aca-04337daff33b)
 
 
